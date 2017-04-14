@@ -23,7 +23,7 @@ import platzom from 'platzom'
 platzom("Programar") // Program
 platzom("Zorro") // Zorrope
 platzom("Zarpar") // Zarppe
-platzom("abecedario") // abecedario
+platzom("abecedario") // abece-dario
 platzom("sometemos") // SoMeTeMoS
 ```
 

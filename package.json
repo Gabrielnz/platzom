@@ -2,9 +2,10 @@
   "name": "platzom",
   "version": "0.1.0",
   "description": "Traductor de idioma platzom",
-  "main": "index.js",
+  "main": "dist/src/platzom.js",
   "scripts": {
-
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
     "js"
   ],
   "author": "Gabriel Nunez <gabriel.nzn@gmail.com> (https://github.com/gabrielnz)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "6.24.1",
+    "babel-preset-env": "1.4.0",
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
+  }
 }
