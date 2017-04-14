@@ -1,0 +1,22 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "Traductor de idioma platzom",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielnz/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "fundamentos",
+    "javascript",
+    "js"
+  ],
+  "author": "Gabriel Nunez <gabriel.nzn@gmail.com> (https://github.com/gabrielnz)",
+  "license": "MIT"
+}
