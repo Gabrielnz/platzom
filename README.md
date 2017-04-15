@@ -12,13 +12,13 @@ Platzom es un idioma inventado para el [Curso de Fundamentos de JavaScript](http
 ## Instalacion
 
 ```
-npm install platzom
+npm install @bladelizard/platzom
 ```
 
 ## Uso
 
 ```
-import platzom from 'platzom'
+import platzom from '@bladelizard/platzom'
 
 platzom("Programar") // Program
 platzom("Zorro") // Zorrope
